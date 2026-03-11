@@ -33,11 +33,3 @@ Beyond DSA, I build AI-driven applications:
 ### 🤝 Connect with Me
 * **LinkedIn**: [Yash Aggarwal](https://www.linkedin.com/in/yashxagg)
 * **GitHub**: [yashxagg](https://github.com/yashxagg)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1009-complement-of-base-10-integer](https://github.com/yashxagg/LeetCode-practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
-<!---LeetCode Topics End-->
