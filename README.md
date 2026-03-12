@@ -33,3 +33,11 @@ Beyond DSA, I build AI-driven applications:
 ### 🤝 Connect with Me
 * **LinkedIn**: [Yash Aggarwal](https://www.linkedin.com/in/yashxagg)
 * **GitHub**: [yashxagg](https://github.com/yashxagg)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/yashxagg/LeetCode-practice/tree/main/0595-big-countries/) | Easy |
+<!---LeetCode Topics End-->
