@@ -40,6 +40,7 @@ Beyond DSA, I build AI-driven applications:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/yashxagg/LeetCode-practice/tree/main/0595-big-countries/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/yashxagg/LeetCode-practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
