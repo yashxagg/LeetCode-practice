@@ -1,0 +1,16 @@
+name: Protect README
+
+on: [push]
+
+jobs:
+  protect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Revert README changes
+        run: |
+          git checkout HEAD^ -- README.md || true
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git commit -am "Revert README update by LeetHub" || true
+          git push
