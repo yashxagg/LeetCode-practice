@@ -34,54 +34,14 @@ Beyond DSA, I build AI-driven applications:
 * **LinkedIn**: [Yash Aggarwal](https://www.linkedin.com/in/yashxagg)
 * **GitHub**: [yashxagg](https://github.com/yashxagg)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0183-customers-who-never-order](https://github.com/yashxagg/LeetCode-practice/tree/main/0183-customers-who-never-order/) | Easy |
-| [0595-big-countries](https://github.com/yashxagg/LeetCode-practice/tree/main/0595-big-countries/) | Easy |
-| [1757-recyclable-and-low-fat-products](https://github.com/yashxagg/LeetCode-practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yashxagg/LeetCode-practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
-| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/yashxagg/LeetCode-practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yashxagg/LeetCode-practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
-| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/yashxagg/LeetCode-practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
-## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/yashxagg/LeetCode-practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
-## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/yashxagg/LeetCode-practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
-## Minimum Spanning Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/yashxagg/LeetCode-practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yashxagg/LeetCode-practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yashxagg/LeetCode-practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yashxagg/LeetCode-practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yashxagg/LeetCode-practice/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
-## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yashxagg/LeetCode-practice/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
-<!---LeetCode Topics End-->
+<div align="center">
+
+# 🏆 LeetCode Progress
+
+<img src="https://leetcard.jacoblin.cool/yashxagg?theme=dark&font=Syne%20Mono&ext=activity" alt="LeetCode Stats" />
+
+<br />
+
+[📂 View My Solutions](./)
+
+</div>
