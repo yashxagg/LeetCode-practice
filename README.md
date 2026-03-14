@@ -75,4 +75,12 @@ Beyond DSA, I build AI-driven applications:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/yashxagg/LeetCode-practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yashxagg/LeetCode-practice/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yashxagg/LeetCode-practice/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 <!---LeetCode Topics End-->
