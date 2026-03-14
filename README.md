@@ -46,10 +46,3 @@ Beyond DSA, I build AI-driven applications:
 
 </div>
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1873-calculate-special-bonus](https://github.com/yashxagg/LeetCode-practice/tree/main/1873-calculate-special-bonus/) | Easy |
-<!---LeetCode Topics End-->
